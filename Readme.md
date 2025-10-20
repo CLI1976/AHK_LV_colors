@@ -59,7 +59,7 @@ CLV.SelectionColors(0x0000FF, 0xFFFFFF)  ; Blue background, white text
 
 myGui.Show()
 ```
-[![替代文字](images/LV_color_sample02.png)](https://github.com/CLI1976/AHK_LV_colors)
+[![Sample image](LV_color_sample02.png)](https://github.com/CLI1976/AHK_LV_colors)
 
 ## 📖 Documentation
 
